@@ -1,0 +1,16 @@
+Non-Functional Requirements
+
+The application must take no longer than 5 seconds to load up the initial screen 
+The application must take no longer than 2 seconds to start a new workout 
+The application must take no longer than 2 seconds to add a new exercise to a workout 
+The application must take no longer than 2 seconds to add a new set 
+The application must take no longer than 3 seconds to save a finished workout 
+The application must take no longer than 3 seconds to load up workout history 
+The application must take no longer than 5 seconds to create a new account 
+The application must take no longer than 5 seconds to sign into account 
+The application must take no longer than 5 seconds to calculate an outcome for the quizz
+The user must be able to understand the flow of the app easily 
+The application must require the user to input a correct username and password to access their account 
+The application must only allow strong passwords with a minimum of 8 characters containing at least one number and capital letter 
+The application must have lower than 3% of crashing 
+The application should have different measurements such as pounds and kilograms 
