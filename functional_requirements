@@ -1,0 +1,22 @@
+Functional Requirements
+
+The user must be able to create a profile 
+Returning users must be able to log into profile 
+The user must be able to edit profile information 
+The user should be able to add and update their weight
+The user could be able to set a weight goal 
+The user should be able to track weight progress through a graph
+The user must be able to start a new workout
+The user must be able to cancel their workout 
+The user should be able to upload a previous workout that they forgot to 
+The user must be able to add different exercises to their workout
+The user must be able to search for an exercise 
+The user should be able to create a new exercise 
+The user must be able to add the kg and number of reps for each exercise 
+The user must be able to add a new set to an exercise 
+The user must be able to save their workout
+The user must be able to save a finished workout as a template they can re use 
+The user must be able to select a pre existing template at the start of their workout 
+The user must be able to view workout history 
+The user should be able to view workout history in a calendar format 
+The user could be able to take a fitness quiz that determines the best workout routine for them 
