@@ -1,9 +1,7 @@
-expo publish - for testing and development
-ios handler with xcode
+WorkoutPal Final Development Version 2.5
 
-github, hooks by react native
+Use Expo run, (or expo start) to initiate React Native Mobile Application
+Alterantively, you can use the built in Simulator for iOS through XCode to run the app.
 
-flex= 0.5 is half of the screen
-
-
-1:31:41
+All written code and comments are embedded within App.js
+Group 19 - SETAP
